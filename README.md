@@ -2,7 +2,7 @@
 
 **Data Scientist** · Final-year Computer Engineering student at BHT Berlin (graduating Sep 2026) · based in Berlin 🇩🇪
 
-I build end-to-end machine-learning and software systems — from training the model to shipping the app people actually use. My focus is **ML, computer vision, and applied data science**. I'm currently writing my Bachelor's thesis on **cost-sensitive fraud detection** (XGBoost vs. neural networks on highly imbalanced financial data), and I'm **open to Data Scientist roles in Germany**.
+I build end-to-end machine-learning and software systems — from training the model to shipping the app people actually use. My focus is **ML and applied data science**. I'm currently writing my Bachelor's thesis on **cost-sensitive fraud detection** (XGBoost vs. neural networks on highly imbalanced financial data), and I'm **open to Data Scientist roles in Germany**.
 
 ---
 
@@ -41,8 +41,3 @@ German (C1) · English (C1) · French (C2) · Arabic (native)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aziz--hassine-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/aziz-hassine)
 [![Email](https://img.shields.io/badge/Email-hassineaziz@icloud.com-D14836?logo=gmail&logoColor=white)](mailto:hassineaziz@icloud.com)
 
----
-
-<sub>📊 <a href="https://github-readme-stats.vercel.app">GitHub stats card</a> below is optional — remove this section if you prefer a cleaner profile.</sub>
-
-![Aziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassineaziz&show_icons=true&hide_border=true&count_private=true)
