@@ -13,7 +13,7 @@ I build end-to-end machine-learning and software systems — from training the m
 | [**FoodCal**](https://github.com/hassineaziz/FoodCal) | Fine-tuned **DINOv2** food-image classifier (**92% top-1** on Food-101) served as a Flask nutrition app | PyTorch · Hugging Face · Flask |
 | [**AeroTrack**](https://github.com/hassineaziz/aerotrack) | UML-first **drone flight simulator** with a finite-state-machine flight controller and a Qt GUI *(team project)* | C++17 · Qt · UML |
 | [**Letterforlater**](https://github.com/hassineaziz/letterforlater) | **SaaS platform** on AWS with Stripe payments — **1,000+ users**, grown entirely organically | Python · Flask · PostgreSQL · AWS |
-
+| [**Bachelorarbeit**](https://github.com/hassineaziz/bachelorarbeit) | Cost-sensitive fraud detection using XGBoost and neural networks to address class imbalance and improve fraud detection | Python · XGBoost · Neural Networks · Machine Learning |
 ### 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
